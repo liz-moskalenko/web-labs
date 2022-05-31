@@ -1,0 +1,39 @@
+#body {
+    background: #f3f2f3;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+#container {
+    background: #99CC99 ;
+    margin: 30px auto;
+    width: 900px;
+    height: 600px;
+}
+
+#header {
+    background: #0d6f9c;
+    height: 100px;
+    width: 900px;
+}
+
+#content {
+  background: darkgreen;
+  float: right;
+  width: 200px;
+  height: 408px;
+}
+   
+#menu {
+    background: #99CC99;
+    float: left;
+    width: 700px;
+    height: 408px;
+}
+
+#footer {
+        background: pink;
+        width: 900px;
+        height: 80px;
+    }
